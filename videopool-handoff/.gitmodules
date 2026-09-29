@@ -1,0 +1,3 @@
+[submodule "third_party/RobustVideoMatting"]
+	path = third_party/RobustVideoMatting
+	url = https://github.com/PeterL1n/RobustVideoMatting.git
